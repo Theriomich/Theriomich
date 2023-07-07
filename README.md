@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Michelle Cifuentes</h1>
 <h3 align="center">A passionate Front End developer from Chile who is always looking to learn more and grow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theriomich&label=Profile%20views&color=0e75b6&style=flat" alt="theriomich" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theriomich&label=Profile%20views&color=orange&style=flat" alt="theriomich" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theriomich" alt="theriomich" /></a> </p>
 
