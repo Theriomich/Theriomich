@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Udemy-React-Curse-Expenses-App](https://github.com/Theriomich/Udemy-React-Curse-Expenses-App)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **M.cifuentes.mankoch@gmail.com**
 
