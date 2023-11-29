@@ -30,19 +30,19 @@
 
 <h3 align="left">Hobbies:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/guitar.png" alt="guitar" width="40" height="40"/> Tocar guitarra
+  <img src="https://img.icons8.com/color/48/000000/guitar.png" alt="guitar" width="30" height="30"/> Tocar guitarra
 </p>
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/musical-notes.png" alt="music" width="40" height="40"/> Música
+  <img src="https://img.icons8.com/color/48/000000/musical-notes.png" alt="music" width="30" height="30"/> Música
 </p>
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/joystick.png" alt="video-games" width="40" height="40"/> Videojuegos
+  <img src="https://img.icons8.com/color/48/000000/joystick.png" alt="video-games" width="30" height="30"/> Videojuegos
 </p>
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/fishing.png" alt="fishing" width="40" height="40"/> Pescar
+  <img src="https://img.icons8.com/color/48/000000/fishing.png" alt="fishing" width="30" height="30"/> Pescar
 </p>
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/hiking.png" alt="trekking" width="40" height="40"/> Trekking
+  <img src="https://img.icons8.com/color/48/000000/hiking.png" alt="trekking" width="30" height="30"/> Trekking
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriomich&show_icons=true&locale=en&layout=compact" alt="theriomich" /></p>
