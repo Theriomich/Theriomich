@@ -41,9 +41,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/fishing.png" alt="fishing" width="30" height="30"/> Pescar
 </p>
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/mountain.png" alt="trekking" width="30" height="30"/> Senderismo
-</p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriomich&show_icons=true&locale=en&layout=compact" alt="theriomich" /></p>
 
