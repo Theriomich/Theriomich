@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,css,js,python,sqlite,figma,firebase,jest,nodejs,vite,bootstrap,react,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,react,aws,html,css,js,python,sqlite,figma,firebase,jest,nodejs,vite,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Hobbies:</h3>
 <p align="left">
